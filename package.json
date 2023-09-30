@@ -1,0 +1,12 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "- Nhan\r  - Nguyen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": ["devops", "nodejs", "express", "web"],
+  "author": "Nhan Nguyen, 101358649",
+  "license": "ISC"
+}
